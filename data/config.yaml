@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Arkadiusz Żmudzin
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,21 +9,20 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/arkus7/arkus-mind/tree/master/
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: Ideas, thoughts and notes - simply a second brain of mine.
+page_title: "arkus.space"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: "🕊️Twitter"
+    link: https://twitter.com/arkus777
+  - link_name: "🐙GitHub"
+    link: https://github.com/arkus
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/arkadiusz-zmudzin/
