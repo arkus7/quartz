@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:arkus7/arkus-mind.git
